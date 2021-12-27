@@ -1,4 +1,4 @@
-name: create and deploy
+name: create
 
 on:
   push:
